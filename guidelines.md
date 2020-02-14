@@ -51,7 +51,7 @@ Add labels for images, icons, buttons etc.
 
 **Accessibility label writing guidelines**  
 Add labels to icons/buttons (A plus "+" icon isn't "plus" but "Add to queue").  
-Don't include element type in label ("Add", not "Add button"). The OS ads element type automatically.  
+Don't include element type in label ("Add", not "Add button"). The OS adds element type automatically.  
 Include context when relevant ("Add to queue", not "Add". To differentiate from possible meaning of "Add to favourites").  
 Update labels when UI changes ("Download episode" -> "Remove episode").  
 Avoid redundancy, if we're in an audio player the context is clear ("Next" not "Next episode").  
